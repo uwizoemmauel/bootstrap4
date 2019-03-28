@@ -1,0 +1,57 @@
+.jambotron
+{
+	margin: 0;
+	width: 100%;
+}
+#logo
+{
+	background-color: red;
+}
+#banner
+{
+	background-color: yellow;
+}
+#socialmedia
+{
+	background-color: cyan;
+}
+#Brand
+{
+	background-color: #ccc;
+}
+#navigation
+{
+	background-color: blue;
+}
+#search
+{
+	background-color: white;
+}
+#slider
+{
+	padding: 0px;
+	width: 100%;
+	/*background-color: green;*/
+	height: 300px;
+}
+#box1
+{
+	background-color: pink;
+}
+#box2
+{
+	background-color:blue;
+}#box3
+{
+	background-color: gray;
+}
+#footer
+{
+	background-color: #aabbdd;
+	height: 50px;
+	text-align: center;
+/*}
+p
+{
+	text-align: center;
+}*/
